@@ -1,6 +1,6 @@
-# Imperium Website Optimizations and Improvements
+# Digit Image Recognition Prototype
 
-Digit Image recognition in Java using MNIST dataset.
+Machine Learning algorithm built in Java using MNIST dataset
 
 
 ## Project
